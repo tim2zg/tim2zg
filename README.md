@@ -14,5 +14,5 @@ Im a beginner in:
 7. Linux (Ubuntu Server)
 8. Pfsense
 
-Contact me if you are interested in talking, because as a nerd its pretty hard to find someone to talk.
+Contact me if you are interested in talking, because as a nerd its pretty hard to find someone to talk to.
 You can use my code 😊 if it works :)...
