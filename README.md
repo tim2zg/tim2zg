@@ -13,6 +13,9 @@ Im a beginner in:
 6. Docker 
 7. Linux (Ubuntu Server)
 8. Pfsense
+9. Golang
+10. Dart, Flutter
+11. C++
 
 Contact me if you are interested in talking, because as a nerd its pretty hard to find someone to talk to.
 You can use my code 😊 if it works :)...
