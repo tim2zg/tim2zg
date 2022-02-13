@@ -21,4 +21,5 @@ Contact me if you are interested in talking, because as a nerd its pretty hard t
 You can use my code 😊 if it works :)...
 
 Yeah you can expecct a lot more on this site soon I hopfully find the time to do it...
-![Test](https://github.com/tim2zg/tim2zg/raw/main/mini.png)
+![Test](https://github.com/tim2zg/tim2zg/raw/main/mini.png)![Test](https://github.com/tim2zg/tim2zg/raw/main/mini.png)
+
