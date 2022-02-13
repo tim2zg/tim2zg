@@ -24,8 +24,8 @@ Yeah you can expecct a lot more on this site soon I hopfully find the time to do
 
 | ![Test](https://github.com/tim2zg/tim2zg/raw/main/mini.png)|     | ![Test](https://github.com/tim2zg/tim2zg/raw/main/mini.png) |
 
-<div>
+<div align="center">
        <img src="https://github.com/tim2zg/tim2zg/raw/main/mini.png"/>
-       <img src="https://github.com/tim2zg/tim2zg/raw/main/mini.png" style="margin-left: 60px"/>
+       <img src="https://github.com/tim2zg/tim2zg/raw/main/mini.png"/>
 </div>
 
