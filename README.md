@@ -26,6 +26,6 @@ Yeah you can expecct a lot more on this site soon I hopfully find the time to do
 
 <div>
        <img src="https://github.com/tim2zg/tim2zg/raw/main/mini.png"/>
-       <img src="https://github.com/tim2zg/tim2zg/raw/main/mini.png" style="margin-left: 20px"/>
+       <img src="https://github.com/tim2zg/tim2zg/raw/main/mini.png" style="margin-left: 60px"/>
 </div>
 
