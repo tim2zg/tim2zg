@@ -2,7 +2,7 @@
        <img src="https://github.com/tim2zg/tim2zg/raw/main/a_mini.png"/>
 </div>
 
-Hi there! 
+#Hi there! 
 I'm Tim 15 Year old Hobby Dev from Switzerland!
 Add me on DC `𝕡𝕩𝕔𝕥_§†Д₪ÐДЯÐ#7743`
 
