@@ -21,7 +21,7 @@ This means that I’ve worked with it. Or still working. Sometimes I'm better th
        <img src="https://github.com/tim2zg/tim2zg/raw/main/unsplash_mini.png"/>
        <img src="https://github.com/tim2zg/tim2zg/raw/main/twitter_mini.png"/>
        <img src="https://github.com/tim2zg/tim2zg/raw/main/reedit_mini.png"/>
-       <img src="https://github.com/tim2zg/tim2zg/raw/main/insta_mini.png"/>
+       <img src="https://raw.githubusercontent.com/tim2zg/tim2zg/main/insta_mini.png"/>
        <img src="https://github.com/tim2zg/tim2zg/raw/main/github_mini.png"/>
        <img src="https://github.com/tim2zg/tim2zg/raw/main/discord_mini.png"/>
 </div>
