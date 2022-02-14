@@ -30,8 +30,8 @@ Yeah you can expecct a lot more on this site soon I hopfully find the time to do
 
 <div align="center">
        <img src="https://github.com/tim2zg/tim2zg/raw/main/mini_with_text.png"/>
-       <img src="https://github.com/tim2zg/tim2zg/raw/main/mini_with_text_tow.png/>
-                 <img src="https://github.com/tim2zg/tim2zg/raw/main/mini_with_text_tow.png/>
+       <img src="https://github.com/tim2zg/tim2zg/raw/main/mini_with_text_tow.png"/>
+       <img src="https://github.com/tim2zg/tim2zg/raw/main/mini_with_text_three.png"/>
 </div>
 
 <p align="center">
