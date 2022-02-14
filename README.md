@@ -12,7 +12,7 @@ Feel free to contact me on any platform! I know about the struggle to find other
        <img src="https://github.com/tim2zg/tim2zg/raw/main/asdf.png"/>
 </div>
 
-This means that I’ve worked with it.
+This means that I’ve worked with it. Or still working. Sometimes I'm better than this. 
 
 ---
 
