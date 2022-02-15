@@ -33,13 +33,8 @@ Some of my accounts...
 
 
 <div align="center">
-       <img src="https://github.com/tim2zg/tim2zg/raw/main/mini_with_text.png"/>
-       <img src="https://github.com/tim2zg/tim2zg/raw/main/mini_with_text_tow.png"/>
+       <img src="https://github.com/tim2zg/tim2zg/raw/main/long_with_text.png"/>
+       <img src="https://github.com/tim2zg/tim2zg/raw/main/total_with_text.png"/>
        <img src="https://github.com/tim2zg/tim2zg/raw/main/mini_with_text_three.png"/>
 </div>
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=tim2zg&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</p>
-
-Still in progress
