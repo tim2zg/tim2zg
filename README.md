@@ -16,14 +16,11 @@ This means that I’ve worked with it. Or still working. Sometimes I'm better th
 
 ---
 
-![Unsplash](https://github.com/tim2zg/tim2zg/raw/main/unsplash_mini.png?style=centerme)
 
-<style>
-       img[src$="centerme"] {
-              display:block;
-              margin: 0 auto;
-       }
-</style>
+[![Unsplash](https://github.com/tim2zg/tim2zg/raw/main/unsplash_mini.png)](https://unsplash.com/@tim2zg)
+[![Twitter](https://github.com/tim2zg/tim2zg/raw/main/twitter_mini.png)](https://twitter.com/tim2zg)
+[![Reddit](https://github.com/tim2zg/tim2zg/raw/main/reedit_mini.png)](https://www.reddit.com/user/tim2zg)
+
 
 <div align="center">
        <img src="https://github.com/tim2zg/tim2zg/raw/main/unsplash_mini.png" href="https://unsplash.com/@tim2zg"/>
