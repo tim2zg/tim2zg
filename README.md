@@ -18,10 +18,12 @@ This means that I’ve worked with it. Or still working. Sometimes I'm better th
 
 ![Unsplash](https://github.com/tim2zg/tim2zg/raw/main/unsplash_mini.png?style=centerme)
 
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
+<style>
+       img[src$="centerme"] {
+              display:block;
+              margin: 0 auto;
+       }
+</style>
 
 <div align="center">
        <img src="https://github.com/tim2zg/tim2zg/raw/main/unsplash_mini.png" href="https://unsplash.com/@tim2zg"/>
