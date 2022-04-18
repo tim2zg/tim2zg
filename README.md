@@ -2,7 +2,7 @@
 
 [![tim2zg](https://img.tim2zg.me/main)](https://github.com/tim2zg)
 
-Feel free to contact me on any platform! I know about the struggle to find other nerds. If you want to contribute to any of my projects, feel free 😊. (Yes I know that I should write better commends and docs, I hope that I can improve it in future 🤔). You also can invite me to your projects if you want. But keep in mind that I don’t have a lot of time 😒. 
+Feel free to contact me on any platform! I know about the struggle to find other nerds. If you want to contribute to any of my projects, feel free 😊. (Yes I know that I should write better commends and docs, I hope that I can improve it in the future 🤔). You also can invite me to your projects if you want. But keep in mind that I don’t have a lot of time 😒.
 
 ---
 
@@ -40,4 +40,4 @@ My max and current streak.
 
 ---
 
-Yes I made a programm to dynamically update the picures (see repo), but at the moment my server infrastructur isn't up so ... (work in progress)
+The pictures are dynamically created on a server and every hour they look a bit different.
